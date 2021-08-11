@@ -1,0 +1,10 @@
+ApplicationConfig.java
+ ApplicationConfig
+Model/Word.java
+ Model.Word
+ApplicationInitializer.java
+ ApplicationInitializer
+Service/Dictation.java
+ Service.Dictation
+Controller/Control.java
+ Controller.Control
